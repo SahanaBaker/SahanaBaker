@@ -1,4 +1,4 @@
-## Hi there 👋
+My name is Sahana Baker and I use they/them pronouns. I'm an undergraduate student at Oregon State University and I'm majoring in Data Science. I've always liked numbers and finding patterns in information and I really enjoyed AP Statistics in High School, so I'm looking forward to learning more about analyzing data and pursuing a career related to Data Science. A few years ago I did a project for fun where I programmed and optimized an algorithm to solve the online word game Wordle. I also made a JavaScript program which simulates genetics in family trees of cats using a randomly generated made-up genetics system and compiled data to analyze and figure out how the genetics system worked.
 
 <!--
 **SahanaBaker/SahanaBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
